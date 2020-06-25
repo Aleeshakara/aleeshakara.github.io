@@ -1,13 +1,13 @@
 # Web Developer profile
 
-##Milestone Project 1
+## Milestone Project 1
 
 This project is my website to showcase my skills as a Junior Full Stack Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focussing on Front End development.
 
 I have decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
 
 
-##Contents
+## Contents
 
 UX
 Wireframes
@@ -21,7 +21,7 @@ Content
 Media
 Acknowledgements
 
-##UX
+## UX
 
 The purpose of this project is to appeal to appropriate users, who are interested in hiring me to work for or collaborate with. This website is to provide potential employers/ clients with relevant information, in an easy to use way.
 
@@ -61,9 +61,9 @@ Please see below:
 *Desktop
 
 
-##Features
+## Features
 
-Existing Features
+###   Existing Features
 
 The contact form allows users to contact me, by completing their details.
 The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
