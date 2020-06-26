@@ -2,24 +2,31 @@
 
 ## Milestone Project 1
 
-This project is my website to showcase my skills as a Junior Full Stack Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focussing on Front End development.
+![Image](https://github.com/Aleeshakara/milestone-1/blob/master/assets/images/favicon.png "favicon") 
+![Image](https://github.com/Aleeshakara/milestone-1/blob/master/assets/logo.png"logo")
+
+
+
+This project is my website to showcase my skills as a Junior Full Stack Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
 
 I have decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
+
+Please click [here] () for my live website.
 
 
 ## Contents
 
-UX
-Wireframes
-Features
-Existing Features
-Technologies Used
-Testing
-Deployment
-Credits
-Content
-Media
-Acknowledgements
+* UX
+** Wireframes
+** Features
+** Existing Features
+* Technologies Used
+* Testing
+* Deployment
+* Credits
+** Content
+** Media
+* Acknowledgements
 
 ## UX
 
@@ -52,22 +59,21 @@ Repeat user
 As a repeat user, I want to clearly see any new updates and new projects, which have uploaded.
 
 
-Wireframes
+### Wireframes
 
 Balsamiq was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
 Please see below:
-*Mobile
-*Tablet
-*Desktop
+Desktop
+![image](wireframes-MS1.pdf)
 
+### Features
 
-## Features
-
-###   Existing Features
+####   Existing Features
 
 The contact form allows users to contact me, by completing their details.
 The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
 The footer contains links for the contact, CV and social media links.
+
 ###Colours
 
 I chose to keep it simple by using black, white and grey.
@@ -75,5 +81,19 @@ I chose to keep it simple by using black, white and grey.
 ###Fonts
 
 I chose to use ….. for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
+
+## Technologies used
+
+*	[HTML](https://html.com/)- The main structure of the pages
+*	[CSS]()- The overall style
+*	[Bootstrap]()- CSS framework used for speed with components and grids mobile first design 
+*	[GitHub]()- used for storing projects
+*	[GitPod]()- used to commit files to Git
+*	[Git]()- used for version control and to push to GitHub
+*	[GitHub Pages]()- Used to deploy
+* [Autofixer]()
+
+## Tools
+•	Google Fonts- Fonts used
 
 
