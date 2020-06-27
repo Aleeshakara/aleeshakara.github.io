@@ -16,16 +16,16 @@ Please click [here] () for my live website.
 ## Contents
 
 * [UX](#ux)
-  - Wireframes
-  - Features
-* Existing Features
-* Technologies Used
-* Testing
-* Deployment
-* Credits
-  - Content
-  - Media
-* Acknowledgements
+  - [Wireframes](#wireframes)
+  - [Features](#features)
+* [Existing Features](#existing-features)
+* [Technologies Used](#technologies-used)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+  - [Content](#content)
+  - [Media](#media)
+* [Acknowledgements](#acknowledgements)
 
 ## UX
 
