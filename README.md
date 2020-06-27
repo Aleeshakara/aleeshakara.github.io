@@ -16,9 +16,11 @@ Please click [here] () for my live website.
 ## Contents
 
 * [UX](#ux)
+  - [User Stories](#user-stories)
   - [Wireframes](#wireframes)
-  - [Features](#features)
-* [Existing Features](#existing-features)
+* [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Features Left to Implement(#features-left-to-implement)
 * [Technologies Used](#technologies-used)
 * [Testing](#testing)
 * [Deployment](#deployment)
