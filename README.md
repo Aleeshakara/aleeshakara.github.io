@@ -15,9 +15,9 @@ Please click [here] () for my live website.
 
 ## Contents
 
-* UX
- - Wireframes
- - Features
+* UX(#ux)
+  - Wireframes
+  - Features
 * Existing Features
 * Technologies Used
 * Testing
