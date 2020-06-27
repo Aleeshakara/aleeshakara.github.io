@@ -62,21 +62,21 @@ Repeat user
 
 ### Wireframes
 
-Balsamiq was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
+[Balsamiq](https://balsamiq.com/) was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
 Please see below:
-![Desktop](wireframes-MS1.pdf)
+* [Desktop](wireframes-MS1.pdf)
 
-### Features
+## Features
 
-#### Existing Features
+### Existing Features
 
 The contact form allows users to contact me, by completing their details.
 The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
 The footer contains links for the contact, CV and social media links.
 
-###Colours
+### Colours
 
-I chose to keep it simple by using black, white and grey.
+I chose to keep it simple by using black, white and grey. I feel it offers a clean look and allowed me to use other elements to catch the users' attention.
 
 ###Fonts
 
@@ -94,18 +94,15 @@ I chose to use ….. for my logo as I wanted my name to have a stylish cursive f
 ## Technologies used
 
 *	[HTML](https://html.com/)- The main structure of the pages
-*	[CSS]()- The overall style
-*	[Bootstrap]()- CSS framework used for speed with components and grids mobile first design 
-*	[GitHub]()- used for storing projects
-*	[GitPod]()- used to commit files to Git
-*	[Git]()- used for version control and to push to GitHub
-*	[GitHub Pages]()- Used to deploy
-* [Autofixer]()
-
-## Tools
-•	Google Fonts- Fonts used
-
-Font Awesome
+*	[CSS](https://css-tricks.com)- The overall style
+*	[Bootstrap](https://getbootstrap.com)- CSS framework used for speed with components and grids mobile first design 
+*	[GitHub](https://github.com)- Used for storing projects
+*	[GitPod](https://www.gitpod.io)- Used to commit files to Git
+*	[Git](https://git-scm.com)- Used for version control and to push to GitHub
+*	[GitHub Pages](https://pages.github.com)- Used to deploy
+* [Autoprefixer](https://autoprefixer.github.io/)
+* [Google Fonts](https://fonts.google.com)- Fonts used
+* [Font Awesome]
 
 ##Testing
 
