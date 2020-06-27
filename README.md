@@ -15,7 +15,7 @@ Please click [here] () for my live website.
 
 ## Contents
 
-* UX(#ux)
+* [UX](#ux)
   - Wireframes
   - Features
 * Existing Features
