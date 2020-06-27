@@ -20,7 +20,7 @@ Please click [here] () for my live website.
   - [Wireframes](#wireframes)
 * [Features](#features)
   - [Existing Features](#existing-features)
-  - [Features Left to Implement(#features-left-to-implement)
+  - [Features Left to Implement](#features-left-to-implement)
 * [Technologies Used](#technologies-used)
 * [Testing](#testing)
 * [Deployment](#deployment)
@@ -64,8 +64,7 @@ Repeat user
 
 Balsamiq was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
 Please see below:
-Desktop
-![image](wireframes-MS1.pdf)
+![Desktp](wireframes-MS1.pdf)
 
 ### Features
 
