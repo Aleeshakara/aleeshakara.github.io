@@ -16,15 +16,15 @@ Please click [here] () for my live website.
 ## Contents
 
 * UX
-** Wireframes
-** Features
-** Existing Features
+ - Wireframes
+ - Features
+* Existing Features
 * Technologies Used
 * Testing
 * Deployment
 * Credits
-** Content
-** Media
+  - Content
+  - Media
 * Acknowledgements
 
 ## UX
@@ -67,7 +67,7 @@ Desktop
 
 ### Features
 
-####   Existing Features
+#### Existing Features
 
 The contact form allows users to contact me, by completing their details.
 The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
@@ -81,7 +81,7 @@ I chose to keep it simple by using black, white and grey.
 
 I chose to use ….. for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
 
-##Follow up
+#### Features Left to Implement
 
 *A live website, preferably with my own domain
 *Update Projects Page with live projects
