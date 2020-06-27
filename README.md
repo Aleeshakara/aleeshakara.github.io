@@ -64,7 +64,7 @@ Repeat user
 
 Balsamiq was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
 Please see below:
-![Desktp](wireframes-MS1.pdf)
+![Desktop](wireframes-MS1.pdf)
 
 ### Features
 
