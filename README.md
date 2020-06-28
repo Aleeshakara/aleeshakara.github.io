@@ -90,7 +90,9 @@ Please see below:
 * Contains a contact form. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
 
 #### Projects:
-* Currently for appearance. Hope to show images as links to live sites
+* Currently for appearance. Hope to show images as links to live sites. Contains completed projects (courtesy of Code Institute tutorial videos). Images contain links to external responsive sites.
+As I have currently only used HTML and CSS, there are restrictions in what the site has to offer.
+
 
 #### Skills:
 * Shows my skills (in theory), to date
@@ -102,16 +104,24 @@ Please see below:
 
 
 
-### Colours
+#### Colours
 
 I chose to keep it simple by using black, white and grey. I feel it offers a clean look and allowed me to use other elements to catch the users' attention.
 
-### Fonts
+#### Fonts
 
 I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
 
 
 ### Features Left to Implement
+
+Projects to be added as and when created
+Up to date CV
+*Features required to complete the contact form.
+*Links to my professional social media, which I need to set up.
+Blog/ videos with my personal journey, along with help and advice.
+Accessibility adjustments (Content Adjustments, Colour & Display Adjustments, Navigation Adjustments)
+
 
 * A live website, preferably with my own domain
 * Update Projects Page with live projects
@@ -141,6 +151,7 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 * W3C Markup Validation Servicehttps://validator.w3.orghttps://jigsaw.w3.org/css-validator/
 * W3C CSS Validation Service
 * W3C HTMLUsed to validate my HTML
+* Sitepoint.com- SitePoint
 Ami.responsive, mockup RESPONSIVE TOOLS
 
 Testing to help find  errors. It was tested on…
@@ -174,7 +185,7 @@ Google Dev
 
 
 
-##Deployment
+## Deployment
 
 GitHub Pages was used to deploy the website.
 
@@ -233,7 +244,7 @@ Publish page and test live address
 To submit bug reports and feature suggestions or track changes….
 ##Credits
 
-##Credits
+## Credits
 
 W3C- To compare codes I wanted to use
 Bootstrap- Inspiration and template (contact form).
@@ -244,18 +255,21 @@ Code Institute- Tutorials and source codes have been used as reference;
 Boostrap
 Font Awesome
  
-Content
+### Content
 
-Text
+#### Text
 
 All of the text has been wriiten by me.
 
-Media
+#### Media
 
 The image used created by me
 I was inspired to create this page as a basis for my future profile.
 
-##Reflection
+
+## Acknowledgements
+
+## Reflection
 
 Before this project, I had very little knowledge of coding.
 I enjoyed some of the journey. I started out with the idea of using black, white and purple, as being my favourite colours, I believe d they would truly represent my brand. Once I started putting the colours together, removing the purple seemed the best idea, including changing my image to ‘grayscale’. 
