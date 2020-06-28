@@ -37,6 +37,10 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 
 #### Developer
 
+>As a developer, I want to
+*
+*
+*
 
 #### First Time visitor
 
@@ -76,6 +80,12 @@ Please see below:
 
 ### Existing Features
 
+* Home Page-
+* Contact Page-
+* Projects-
+* Skills-
+* All Pages-
+
 The contact form allows users to contact me, by completing their details.
 The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
 The footer contains links for the contact, CV and social media links.
@@ -84,16 +94,17 @@ The footer contains links for the contact, CV and social media links.
 
 I chose to keep it simple by using black, white and grey. I feel it offers a clean look and allowed me to use other elements to catch the users' attention.
 
-###Fonts
+### Fonts
 
-I chose to use ….. for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
+I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
 
-#### Features Left to Implement
 
-*A live website, preferably with my own domain
-*Update Projects Page with live projects
-*Interactive (using Javascript) 
-*Possibly a blog, videos or newsletter
+### Features Left to Implement
+
+* A live website, preferably with my own domain
+* Update Projects Page with live projects
+* Interactive (using Javascript) 
+* Possibly a blog, videos or newsletter
 
 
 
@@ -108,30 +119,25 @@ I chose to use ….. for my logo as I wanted my name to have a stylish cursive f
 *	[GitHub Pages](https://pages.github.com)- Used to deploy
 * [Autoprefixer](https://autoprefixer.github.io/)
 * [Google Fonts](https://fonts.google.com)- Fonts used
-* [Font Awesome]
+* [Font Awesome](https://fontawesome.com/)
 
-##Testing
+## Testing
 
-*Dev Tools- Google Chrome
-*W3C Markup Validation Service
-*W3C CSS Validation Service
+### Test Automation
 
-Ami.responsive, mockup
+* Dev Tools https://developers.google.com/web/tools/chrome-devtools- Google Chrome
+* W3C Markup Validation Servicehttps://validator.w3.orghttps://jigsaw.w3.org/css-validator/
+* W3C CSS Validation Service
+* W3C HTMLUsed to validate my HTML
+Ami.responsive, mockup RESPONSIVE TOOLS
 
 Testing to help find  errors. It was tested on…
 Issues found….
 Unresolved isuues
 
-##Testing 
+## Manual Testing
 
-*Google Development Tools
-*Am I Responsive
-*W3C Validation
-Used to validate my HTML
-
-##Manual Testing
-
-I have tried my website on Safari and Google Chrome
+I have tried my website on Safari and Google Chrome, 
 
 Devices tested…..
 
@@ -157,6 +163,8 @@ Google Dev
 
 
 ##Deployment
+
+GitHub Pages was used to deploy the website.
 
 ###Instrutions
 1.
@@ -217,11 +225,13 @@ To submit bug reports and feature suggestions or track changes….
 
 W3C- To compare codes I wanted to use
 Bootstrap- Inspiration and template (contact form).
-
+Favicon
+Mockup World
 
 Code Institute- Tutorials and source codes have been used as reference;
 Boostrap
 Font Awesome
+ 
 Content
 
 Text
