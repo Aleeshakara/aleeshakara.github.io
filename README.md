@@ -8,7 +8,7 @@ This project is my website to showcase my skills as a Junior Full Stack Develope
 
 I have decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
 
-Please click * [here]() for my live website.
+Please click [here]() for my live website.
 
 
 ## Contents
@@ -37,38 +37,40 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 
 #### Developer
 
->As a developer, I want to
-*
-*
-*
+>As a developer, I want to:
+* Make it easy for users to navigate the website
+* Make a website that appeals to many different users
+* Showcase my skills as a developer
 
 #### First Time visitor
 
->As a first-time user, I want to learn about the site and find out more about the developer.
+>As a first-time user, I want to:
+* Learn about the site and find out more about the developer
 
 #### Prospective Employer
 
->As a prospective employer, I want to know how this developer would fit in with our company’s culture, based on their experience and social media activity.
-
-As a potential employer, I want to see clear demonstrations that this developer has their relevant skills showcased clearly, starting with a visually aesthetic website.
-
->As an employer, I want to visit a site that is easily navigated and clearly labelled
-
->As a potential employer, I want to click into the developer’s social media
+>As a prospective employer, I want to:
+* know how this developer would fit in with our company’s culture, based on their experience and social media activity
+* See clear demonstrations that this developer has their relevant skills showcased clearly, starting with a visually aesthetic website
+* Visit a site that is easily navigated and clearly labelled
+* Click into the developer’s social media
 
 #### Potential Client
 
-As a potential client, I want easily contact this developer.
+>As a potential client, I want to:
+* Easily contact this developer
 
 #### Repeat user
 
->As a repeat user, I want to clearly see any new updates and new projects, which have uploaded.
-
+>As a repeat user, I want to:
+Clearly see any new updates and new projects, which have uploaded.
 
 ### User Goals
 
-The de
-
+* The developer wants to bring awareness to their brand and be open to potential project collaborations or job opportunities
+* Employers and recruiters want to learn more about a potential employee
+* Designers/ developers want to collaborate on projects
+* Startups want to work with the developer, who can help establish their brand/ business via a website or an app
 
 ### Wireframes
 
@@ -82,7 +84,7 @@ Please see below:
 
 #### Home Page:
 * Consists of 3 sections-
-  - About Me- A brief background about myself.
+  - About Me- A brief background about myself
   -
   - What- Brief details about what I can offer. This is what I hope to achieve moving forward. It will be updated, when appropriate
   
@@ -90,9 +92,7 @@ Please see below:
 * Contains a contact form. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
 
 #### Projects:
-* Currently for appearance. Hope to show images as links to live sites. Contains completed projects (courtesy of Code Institute tutorial videos). Images contain links to external responsive sites.
-As I have currently only used HTML and CSS, there are restrictions in what the site has to offer.
-
+* Currently for appearance. Hope to show images as links to live sites. Contains completed projects (courtesy of Code Institute tutorial videos). Images contain links to external responsive sites. As I have currently only used HTML and CSS, there are restrictions in what the site has to offer.
 
 #### Skills:
 * Shows my skills (in theory), to date
@@ -100,8 +100,6 @@ As I have currently only used HTML and CSS, there are restrictions in what the s
 #### All Pages:
 * The navigation menu is at the top of each page. It allows users to access all of the website’s pages and the CV in a separate page, allowing the user to return to the website easily
 * The footer contains links for the contact, CV and social media links
-
-
 
 
 #### Colours
@@ -115,19 +113,14 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 
 ### Features Left to Implement
 
-Projects to be added as and when created
-Up to date CV
-*Features required to complete the contact form.
-*Links to my professional social media, which I need to set up.
-Blog/ videos with my personal journey, along with help and advice.
-Accessibility adjustments (Content Adjustments, Colour & Display Adjustments, Navigation Adjustments)
-
-
 * A live website, preferably with my own domain
-* Update Projects Page with live projects
+* Projects to be added as and when created
+* Up to date CV
+* Features required to complete the contact form.
+* Links to my professional social media, which I need to set up.
+* Blog, videos or newsletter with my personal journey, along with help and advice.
+* Accessibility adjustments (Content Adjustments, Colour & Display Adjustments, Navigation Adjustments)
 * Interactive (using Javascript) 
-* Possibly a blog, videos or newsletter
-
 
 
 ## Technologies used
@@ -142,6 +135,7 @@ Accessibility adjustments (Content Adjustments, Colour & Display Adjustments, Na
 * [Autoprefixer](https://autoprefixer.github.io/)
 * [Google Fonts](https://fonts.google.com)- Fonts used
 * [Font Awesome](https://fontawesome.com/)
+
 
 ## Testing
 
@@ -182,7 +176,6 @@ Autoprefixer.github.io- The Autoprefixer CSS Online
 Sitepoint.com- SitePoint
 
 Google Dev
-
 
 
 ## Deployment
@@ -242,7 +235,7 @@ Click master branch….
 Publish page and test live address
 
 To submit bug reports and feature suggestions or track changes….
-##Credits
+
 
 ## Credits
 
@@ -257,11 +250,11 @@ Font Awesome
  
 ### Content
 
-#### Text
+* Text
 
 All of the text has been wriiten by me.
 
-#### Media
+* Media
 
 The image used created by me
 I was inspired to create this page as a basis for my future profile.
@@ -269,10 +262,12 @@ I was inspired to create this page as a basis for my future profile.
 
 ## Acknowledgements
 
+
+
+
 ## Reflection
 
-Before this project, I had very little knowledge of coding.
-I enjoyed some of the journey. I started out with the idea of using black, white and purple, as being my favourite colours, I believe d they would truly represent my brand. Once I started putting the colours together, removing the purple seemed the best idea, including changing my image to ‘grayscale’. 
+Before this project, I had very little knowledge of coding. I enjoyed some of the journey. I started out with the idea of using black, white and purple, as being my favourite colours, I believe d they would truly represent my brand. Once I started putting the colours together, removing the purple seemed the best idea, including changing my image to ‘grayscale’. 
 
 I knew I’d have issues, so a lot of my ideas never made it to the  finished project. I hope to incorporate some of those ideas into future projects.
 
