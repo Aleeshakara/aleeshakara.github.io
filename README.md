@@ -80,15 +80,27 @@ Please see below:
 
 ### Existing Features
 
-* Home Page-
-* Contact Page-
-* Projects-
-* Skills-
-* All Pages-
+#### Home Page:
+* Consists of 3 sections-
+  - About Me- A brief background about myself.
+  -
+  - What- Brief details about what I can offer. This is what I hope to achieve moving forward. It will be updated, when appropriate
+  
+#### Contact Page:
+* Contains a contact form. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
 
-The contact form allows users to contact me, by completing their details.
-The navigation menu allows users to access all of the website’s pages and the CV in a separate page.
-The footer contains links for the contact, CV and social media links.
+#### Projects:
+* Currently for appearance. Hope to show images as links to live sites
+
+#### Skills:
+* Shows my skills (in theory), to date
+
+#### All Pages:
+* The navigation menu is at the top of each page. It allows users to access all of the website’s pages and the CV in a separate page, allowing the user to return to the website easily
+* The footer contains links for the contact, CV and social media links
+
+
+
 
 ### Colours
 
@@ -150,7 +162,7 @@ Warnings
 Requirements
 Testing
 
-This website has been tested through a server, via Code Institute (python3 -m http.server, port )
+This website has been tested through a server, via Code Institute (python3 -m http.server, port 8000)
 
 Validator.w3.org- The W3C Markup Validation Service
 
