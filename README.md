@@ -263,7 +263,7 @@ Font Awesome
 
 * Text
 
-All of the text has been wriiten by me.
+All of the text has been written by me.
 
 * Media
 
@@ -288,6 +288,6 @@ Before this project, I had very little knowledge of coding. I enjoyed some of th
 
 I knew I’d have issues, so a lot of my ideas never made it to the  finished project. I hope to incorporate some of those ideas into future projects.
 
-I worked hard, put many stressful hours into this. I hope to update my portfolio , inorder to use after this course.
+I worked hard, put many stressful hours into this. I hope to update my portfolio , in order to use after this course.
 
 
