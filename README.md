@@ -40,12 +40,16 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 >As a developer, I want to:
 * Make it easy for users to navigate the website
 * Make a website that appeals to many different users
-* Showcase my skills as a developer
+* Showcase my skills/ experience as a developer
+* Show that I am a good fit for collaborations and job opportunities
+* Share various parts of my journey through the website and my social media
 
 #### First Time visitor
 
 >As a first-time user, I want to:
+* Read the information easily
 * Learn about the site and find out more about the developer
+* Know what information I expect to see once I click a link
 
 #### Prospective Employer
 
@@ -54,23 +58,29 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 * See clear demonstrations that this developer has their relevant skills showcased clearly, starting with a visually aesthetic website
 * Visit a site that is easily navigated and clearly labelled
 * Click into the developer’s social media
+* View a downloadable CV, with the option of printing a hard copy
 
 #### Potential Client
 
 >As a potential client, I want to:
 * Easily contact this developer
+* View the projcets
+* See that the developer has made this website user friendly, mobile friendly and easy to read
+* If this developer can produce the type of experience I want for my business
+* See a professional website by a professional developer
 
 #### Repeat user
 
 >As a repeat user, I want to:
-Clearly see any new updates and new projects, which have uploaded.
+* Clearly see any new updates and new projects, which have uploaded.
 
 ### User Goals
 
 * The developer wants to bring awareness to their brand and be open to potential project collaborations or job opportunities
-* Employers and recruiters want to learn more about a potential employee
-* Designers/ developers want to collaborate on projects
+* Employers and recruiters want to learn more about a potential employee, via the website and social media
+* Designers/ developers want to view projects and collaborate with developer
 * Startups want to work with the developer, who can help establish their brand/ business via a website or an app
+* All users want to easily navigate the website
 
 ### Wireframes
 
@@ -87,6 +97,7 @@ Please see below:
   - About Me- A brief background about myself
   -
   - What- Brief details about what I can offer. This is what I hope to achieve moving forward. It will be updated, when appropriate
+  - A photo of myself
   
 #### Contact Page:
 * Contains a contact form. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
@@ -100,7 +111,7 @@ Please see below:
 #### All Pages:
 * The navigation menu is at the top of each page. It allows users to access all of the website’s pages and the CV in a separate page, allowing the user to return to the website easily
 * The footer contains links for the contact, CV and social media links
-
+All links have a silver hover
 
 #### Colours
 
@@ -262,10 +273,16 @@ I was inspired to create this page as a basis for my future profile.
 
 ## Acknowledgements
 
+I would like to thank my daughter, who has been incredibly patient with me. I was juggling this project and homeschooling during the pandem.
 
 
 
-## Reflection
+Thank you for your time,
+Aleesha  
+
+
+
+## Self Reflection
 
 Before this project, I had very little knowledge of coding. I enjoyed some of the journey. I started out with the idea of using black, white and purple, as being my favourite colours, I believe d they would truly represent my brand. Once I started putting the colours together, removing the purple seemed the best idea, including changing my image to ‘grayscale’. 
 
@@ -273,6 +290,4 @@ I knew I’d have issues, so a lot of my ideas never made it to the  finished pr
 
 I worked hard, put many stressful hours into this. I hope to update my portfolio , inorder to use after this course.
 
-Thank you for your time,
-Aleesha  
 
