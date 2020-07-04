@@ -86,7 +86,7 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 
 [Balsamiq](https://balsamiq.com/) was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
 Please see below:
-* [Desktop](wireframes-MS1.pdf)
+* [Desktop](https://github.com/Aleeshakara/milestone-1/blob/master/wireframes/Wireframes-MS1.pdf)
 * [Mobile](https://github.com/Aleeshakara/milestone-1/blob/master/wireframes/%20mobile-MS1.pdf)
 
 ## Features
