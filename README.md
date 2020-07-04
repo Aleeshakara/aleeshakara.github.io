@@ -156,43 +156,25 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 
 ## Testing
 
-### Test Automation
+### Test Automations
 
-* Dev Tools https://developers.google.com/web/tools/chrome-devtools- Google Chrome
-* W3C Markup Validation Servicehttps://validator.w3.orghttps://jigsaw.w3.org/css-validator/
-* W3C CSS Validation Service
-* W3C HTMLUsed to validate my HTML
-* Sitepoint.com- SitePoint
-Ami.responsive, mockup RESPONSIVE TOOLS
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open) was used to view how responsive the website was across different sized devices
+* [W3C Markup Validation Service](https://validator.w3.orghttps://jigsaw.w3.org/css-validator/) was used to valiadte the HTML code was free from warnings and errors
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to valiadte the CSS code was free from warnings and errors
+* [Am I Responsive?](https://amiresponsive.co.uk/) was used to view how responsive the website was across different sized devices at the same time
 
-Testing to help find  errors. It was tested on…
-Issues found….
-Unresolved isuues
+
 
 ## Manual Testing
 
-I have tried my website on Safari and Google Chrome, 
-
-Devices tested…..
-
-To submit bug reports and feature sggestions or track changes….
-
-Errors/ User bugs
-
-Warnings
-
-Requirements
-Testing
-
 This website has been tested through a server, via Code Institute (python3 -m http.server, port 8000)
 
-Validator.w3.org- The W3C Markup Validation Service
+I have tried my website on Google Chrome and Safari. Both appear to work as expected. 
 
-Autoprefixer.github.io- The Autoprefixer CSS Online
+Devices tested are Samsung Galaxy S6, iPod Touch, MacBook Air, Samsung Galaxy Tab A, Huawei P30 Lite and iPad 10.2.
 
-Sitepoint.com- SitePoint
+Please see [here]() for User Testing
 
-Google Dev
 
 
 ## Deployment
@@ -261,7 +243,7 @@ Bootstrap- Inspiration and template (contact form).
 Favicon
 Mockup World
 
-Code Institute- Tutorials and source codes have been used as reference;
+Code Institute- Tutorials and footer source codes have been used as reference
 Boostrap
 Font Awesome
  
