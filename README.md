@@ -1,6 +1,6 @@
-# Web Developer profile
+# Aleesha Kara - Web Developer profile
 
-## Milestone Project 1
+## User Centric Frontend Development Milestone Project 
 
 ![Image](https://github.com/Aleeshakara/milestone-1/blob/master/assets/images/favicon.png "favicon") 
 
@@ -93,20 +93,21 @@ Please see below:
 ### Existing Features
 
 #### Home Page:
-* Consists of 3 sections-
+* Consists of:
+  - A photo of me for people to connect with me as a person
   - About Me- A brief background about myself
-  -
-  - What- Brief details about what I can offer. This is what I hope to achieve moving forward. It will be updated, when appropriate
-  - A photo of myself
-  
+  - What I Can Do- Brief details about my skills. This is what I hope to achieve moving forward. It will be updated, when appropriate
+  - How I Can Help- Creating a tailored a experience for users
+This page allows the users to get to know me.
+
 #### Contact Page:
-* Contains a contact form. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
+* Contains a contact form. It gives the user the option of submitting their details for me to get in touch within a couple of days. This is a Bootstrap template. I plan to redesign the form and make it fully interactive in the future
 
 #### Projects:
-* Currently for appearance. Hope to show images as links to live sites. Contains completed projects (courtesy of Code Institute tutorial videos). Images contain links to external responsive sites. As I have currently only used HTML and CSS, there are restrictions in what the site has to offer.
+* This page is to show a variety of different types and styles of work I have done. Currently for appearance. The code was copied StartBootstrap. Hope to show images as links to live sites in the future. As I currently have limited experience, there are restrictions in what the site has to offer.
 
 #### Skills:
-* Shows my skills (in theory), to date
+* Shows users my skills (some in theory), to date
 
 #### All Pages:
 * The navigation menu is at the top of each page. It allows users to access all of the website’s pages and the CV in a separate page, allowing the user to return to the website easily
@@ -119,7 +120,7 @@ I chose to keep it simple by using black, white and grey. I feel it offers a cle
 
 #### Fonts
 
-I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cursive font. I chose …. throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
+I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cursive font. I chose "Balsamiq Sans" throughout the website as it appears fun and friendly. I used sizing, word spacing and letter spacing to change the format throughout.
 
 
 ### Features Left to Implement
@@ -139,13 +140,17 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 *	[HTML](https://html.com/)- The main structure of the pages
 *	[CSS](https://css-tricks.com)- The overall style
 *	[Bootstrap](https://getbootstrap.com)- CSS framework used for speed with components and grids mobile first design 
+* [Hover.css](https://ianlunn.github.io/Hover/)- Used for hover effect on icon and text links
 *	[GitHub](https://github.com)- Used for storing projects
 *	[GitPod](https://www.gitpod.io)- Used to commit files to Git
 *	[Git](https://git-scm.com)- Used for version control and to push to GitHub
 *	[GitHub Pages](https://pages.github.com)- Used to deploy
-* [Autoprefixer](https://autoprefixer.github.io/)
+* [Balsamiq](https://balsamiq.com/)- Used to create wireframes
 * [Google Fonts](https://fonts.google.com)- Fonts used
-* [Font Awesome](https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/)- Used for the Socail Media icons
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open)- Used to inspect the codes used and view to make changes
+* [Javascript](https://www.javascript.com/)- Used to support style
+* [Autoprefixer](https://autoprefixer.github.io/)- Used to parse the CSS and add vendor prefixes
 
 
 ## Testing
