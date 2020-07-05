@@ -4,9 +4,10 @@
 
 ![Image](https://github.com/Aleeshakara/milestone-1/blob/master/assets/images/favicon.png "favicon") 
 
-This project is my website to showcase my skills as a Junior Full Stack Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
 
-I have decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
+This project is my website to showcase my skills as a Web Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
+
+I decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
 
 Please click [here]() for my live website.
 
@@ -25,7 +26,6 @@ Please click [here]() for my live website.
 * [Deployment](#deployment)
 * [Credits](#credits)
   - [Content](#content)
-  - [Media](#media)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -54,7 +54,7 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 #### Prospective Employer
 
 >As a prospective employer, I want to:
-* know how this developer would fit in with our company’s culture, based on their experience and social media activity
+* Know how this developer would fit in with our company’s culture, based on their experience and social media activity
 * See clear demonstrations that this developer has their relevant skills showcased clearly, starting with a visually aesthetic website
 * Visit a site that is easily navigated and clearly labelled
 * Click into the developer’s social media
@@ -84,10 +84,11 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 
 ### Wireframes
 
-[Balsamiq](https://balsamiq.com/) was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. 
+[Balsamiq](https://balsamiq.com/) was used to create the wireframes for mobile, tablet and desktop. This gave me an opportunity to make decisions about the layout across the screen sizes. The final website differs from the original plan, because the site doesn't appear as overcrowed as initially thought. 
 Please see below:
 * [Desktop](https://github.com/Aleeshakara/milestone-1/blob/master/wireframes/Wireframes-MS1.pdf)
 * [Mobile](https://github.com/Aleeshakara/milestone-1/blob/master/wireframes/%20mobile-MS1.pdf)
+
 
 ## Features
 
@@ -239,17 +240,18 @@ To submit bug reports and feature suggestions or track changes….
 * Code Instiute- Tutorials, footer code
 * [Favicon](https://favicon.io/)
 * [Bootstrap](https://getbootstrap.com/)- Contact form
-* [StartBootstrap](https://startbootstrap.com/)
+* [StartBootstrap](https://startbootstrap.com/)-Projects 
+
 
 ### Content
 
 * Text
 
-Most of the text has been written by me. The projects page and Contact page was created using copied text
+Most of the text has been written by me. The projects page and Contact page was created using copied text.
 
 * Media
 
-The image used created by me.
+The image used is owned by me.
 
 
 ## Acknowledgements
