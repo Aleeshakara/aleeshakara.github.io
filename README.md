@@ -173,7 +173,7 @@ I have tried my website on Google Chrome and Safari. Both appear to work as expe
 
 Devices tested are Samsung Galaxy S6, iPod Touch, MacBook Air, Samsung Galaxy Tab A, Huawei P30 Lite and iPad 10.2.
 
-Please see [here]() for User Testing
+Please see [here](https://github.com/Aleeshakara/milestone-1/blob/master/assets/usability%20testing.pdf) for Usability Testing
 
 
 
