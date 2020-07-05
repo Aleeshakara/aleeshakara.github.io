@@ -163,9 +163,7 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to valiadte the CSS code was free from warnings and errors
 * [Am I Responsive?](https://amiresponsive.co.uk/) was used to view how responsive the website was across different sized devices at the same time
 
-
-
-## Manual Testing
+### Manual Testing
 
 This website has been tested through a server, via Code Institute (python3 -m http.server, port 8000)
 
@@ -174,7 +172,6 @@ I have tried my website on Google Chrome and Safari. Both appear to work as expe
 Devices tested are Samsung Galaxy S6, iPod Touch, MacBook Air, Samsung Galaxy Tab A, Huawei P30 Lite and iPad 10.2.
 
 Please see [here](https://github.com/Aleeshakara/milestone-1/blob/master/assets/usability%20testing.pdf) for Usability Testing
-
 
 
 ## Deployment
@@ -238,30 +235,26 @@ To submit bug reports and feature suggestions or track changes….
 
 ## Credits
 
-W3C- To compare codes I wanted to use
-Bootstrap- Inspiration and template (contact form).
-Favicon
-Mockup World
+* [w3schools](https://www.w3schools.com/)- Examples, inspiration
+* Code Instiute- Tutorials, footer code
+* [Favicon](https://favicon.io/)
+* [Bootstrap](https://getbootstrap.com/)- Contact form
+* [StartBootstrap](https://startbootstrap.com/)
 
-Code Institute- Tutorials and footer source codes have been used as reference
-Boostrap
-Font Awesome
- 
 ### Content
 
 * Text
 
-All of the text has been written by me.
+Most of the text has been written by me. The projects page and Contact page was created using copied text
 
 * Media
 
-The image used created by me
-I was inspired to create this page as a basis for my future profile.
+The image used created by me.
 
 
 ## Acknowledgements
 
-I would like to thank my daughter, who has been incredibly patient with me. I was juggling this project and homeschooling during the pandem.
+I would like to thank my 8 year daughter, who has been incredibly patient with me. I was juggling this project, work and homeschooling during the pandemic.
 
 
 
@@ -270,12 +263,5 @@ Aleesha
 
 
 
-## Self Reflection
-
-Before this project, I had very little knowledge of coding. I enjoyed some of the journey. I started out with the idea of using black, white and purple, as being my favourite colours, I believe d they would truly represent my brand. Once I started putting the colours together, removing the purple seemed the best idea, including changing my image to ‘grayscale’. 
-
-I knew I’d have issues, so a lot of my ideas never made it to the  finished project. I hope to incorporate some of those ideas into future projects.
-
-I worked hard, put many stressful hours into this. I hope to update my portfolio , in order to use after this course.
 
 
