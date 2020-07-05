@@ -1,1 +1,210 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
 
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Sacramento&display=swap');
+ * {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/*------------------------Body*/
+h1 {
+	font-family: Sacramento;
+	color: white;
+}
+h2 {
+	color: #000;
+	letter-spacing: 4px;
+}
+.menu-area {
+	background: #000;
+	overflow: hidden;
+}
+.logo {
+	padding-top: 3px;
+}
+.logo h1 {
+	float: left;
+	font-size: 310%;
+	margin-left: 30px;
+	color: #fff;
+	word-spacing: 15px;
+	padding-top: 6px;
+}
+.logo,
+.main-menu {
+	line-height: 76px;
+}
+.main-menu ul {
+	list-style: none;
+	word-spacing: 20px;
+	display: inline-block;
+	font-size: 24px;
+	margin-left: 40px;
+}
+.main-menu ul a {
+	color: #fff;
+	text-decoration: none;
+	text-align: right;
+}
+.main-menu ul a:hover {
+	text-decoration: none;
+	color: silver;
+}
+.header-area {
+	background: url(../images/aleesha.jpg);
+	height: 400px;
+	background-size: cover;
+	background-position: center center;
+	-webkit-filter: grayscale(100%);
+	        filter: grayscale(100%);
+}
+.title h1 {
+	font-size: 100px;
+	color: #000;
+	font-weight: 700;
+	margin-top: 20px;
+	padding-top: 50px;
+	margin: 0;
+}
+.title h2 {
+	font-size: 90px;
+	color: #000;
+	font-weight: 400;
+	margin: 0;
+}
+section {
+	font-family: 'Balsamiq Sans';
+	color: #000;
+	padding: 50px 50px;
+	white-space: normal;
+	text-overflow: clip;
+	-o-text-overflow: clip;
+	   text-overflow: clip;
+	overflow: hidden;
+}
+h4 {
+	text-align: center;
+}
+.inline-block {
+	display: inline-block;
+}
+.row-table {
+	display: table;
+}
+.section-column {
+	display: table-cell;
+	padding: 0 30px 30px;
+	float: none;
+}
+.main-menu {}
+/*-----------------------------Footer */
+
+footer {
+	background-color: black;
+	color: white;
+	margin-left: 10px;
+	padding-top: 15px;
+	position: relative;
+	padding-left: 10px;
+}
+#footer-info a {
+	color: white;
+	text-decoration: none;
+}
+#footer-info a:hover {
+	text-decoration: none;
+	color: silver;
+}
+h5 {
+	font-family: "Balsamiq Sans";
+}
+.social-media li a i {
+	width: 28px;
+	height: 28px;
+	padding: 12px 0;
+	border-radius: 50%;
+	font-size: 18px;
+	line-height: 7px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+.social-media li a i:hover {
+	background: silver;
+}
+/*-- Portfolio. Code copied from StartBootstrap-stylish-portfolio (github) via startbootstrap.com */
+
+.portfolio-item {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	max-width: 530px;
+	margin: auto auto 1rem;
+}
+.portfolio-item .caption {
+	display: -webkit-box;
+	display: -ms-flexbox;
+    display: flex;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(33, 37, 41, 0.2);
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: 1;
+}
+.portfolio-item .caption-content {
+	color: #fff;
+	margin: auto 2rem 2rem;
+}
+.portfolio-item .caption .caption-content h2 {
+	font-size: 0.8rem;
+	color: #fff;
+}
+.portfolio-item .caption .caption-content p {
+	font-weight: 300;
+	font-size: 1.2rem;
+	color: white;
+}
+@media (min-width: 992px) {
+	.portfolio-item {
+		max-width: none;
+		margin: 0;
+	}
+	.portfolio-item .caption {
+		transition: background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+		transition: clip-path 0.25s ease-out, background-color 0.7s;
+		transition: clip-path 0.25s ease-out, background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+		-webkit-clip-path: inset(0px);
+		clip-path: inset(0px);
+	}
+	.portfolio-item .caption .caption-content {
+		transition: opacity 0.25s;
+		margin-left: 5rem;
+		margin-right: 5rem;
+		margin-bottom: 5rem;
+	}
+	.portfolio-item img {
+		transition: -webkit-clip-path 0.25s ease-out;
+		transition: clip-path 0.25s ease-out;
+		transition: clip-path 0.25s ease-out, -webkit-clip-path 0.25s ease-out;
+		-webkit-clip-path: inset(-1px);
+		clip-path: inset(-1px);
+	}
+	.portfolio-item:hover img {
+		-webkit-clip-path: inset(2rem);
+		clip-path: inset(2rem);
+	}
+	.portfolio-item:hover .caption {
+		background-color: rgb(29, 128, 159, 0.9);
+		-webkit-clip-path: inset(2rem);
+		clip-path: inset(2rem);
+	}
+}
+
+	
