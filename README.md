@@ -26,6 +26,7 @@ Please click [here]() for my live website.
 * [Deployment](#deployment)
 * [Credits](#credits)
   - [Content](#content)
+  - [Media](#media)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -251,7 +252,7 @@ Most of the text has been written by me. The projects page and Contact page was 
 
 * Media
 
-The image used is owned by me.
+The homepage image used is owned by me. The projects images are from Start Bootstap.
 
 
 ## Acknowledgements
