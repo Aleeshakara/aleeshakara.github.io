@@ -2,16 +2,20 @@
 
 ## User Centric Frontend Development Milestone Project 
 
+
 ![Image](https://github.com/Aleeshakara/aleeshakara.github.io/blob/master/assets/images/favicon.png "favicon") 
 
 
-This project is my website to showcase my skills as a Web Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
+This project is my website, showcasing my (future) skills as a Web Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
 
 I decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
 
+
 Please click [here](https://aleeshakara.github.io/) for my live website.
 
+
 ![Image](https://github.com/Aleeshakara/aleeshakara.github.io/blob/master/assets/responsive_multi.png "responsive_multi")
+
 
 ## Contents
 
@@ -71,7 +75,7 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 * If this developer can produce the type of experience I want for my business
 * See a professional website by a professional developer
 
-#### Repeat user
+#### Repeat User
 
 >As a repeat user, I want to:
 * Clearly see any new updates and new projects, which have uploaded.
@@ -83,6 +87,7 @@ The purpose of this project is to appeal to appropriate users, who are intereste
 * Designers/ developers want to view projects and collaborate with developer
 * Startups want to work with the developer, who can help establish their brand/ business via a website or an app
 * All users want to easily navigate the website
+
 
 ### Wireframes
 
@@ -120,7 +125,7 @@ All links have a silver hover
 
 #### Colours
 
-I chose to keep it simple by using black, white and grey. I feel it offers a clean look and allowed me to use other elements to catch the users' attention.
+I chose to keep it simple by using black, white and grey. I feel it offers a clean look and allowed me to use other elements to catch the users' attention. The Projects page contains colour, as I have copied the original code for the page.
 
 #### Fonts
 
@@ -136,14 +141,14 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 * Links to my professional social media, which I need to set up.
 * Blog, videos or newsletter with my personal journey, along with help and advice.
 * Accessibility adjustments (Content Adjustments, Colour & Display Adjustments, Navigation Adjustments)
-* Interactive (using Javascript) 
+* Making the contact page and options interactive
 
 
 ## Technologies used
 
 *	[HTML](https://html.com/)- The main structure of the pages
 *	[CSS](https://css-tricks.com)- The overall style
-*	[Bootstrap](https://getbootstrap.com)- CSS framework used for speed with components and grids mobile first design 
+*	[Bootstrap](https://getbootstrap.com)- CSS framework used for speed with components 
 * [Hover.css](https://ianlunn.github.io/Hover/)- Used for hover effect on icon and text links
 *	[GitHub](https://github.com)- Used for storing projects
 *	[GitPod](https://www.gitpod.io)- Used to commit files to Git
@@ -151,8 +156,8 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 *	[GitHub Pages](https://pages.github.com)- Used to deploy
 * [Balsamiq](https://balsamiq.com/)- Used to create wireframes
 * [Google Fonts](https://fonts.google.com)- Fonts used
-* [Font Awesome](https://fontawesome.com/)- Used for the Socail Media icons
-* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open)- Used to inspect the codes used and view to make changes
+* [Font Awesome](https://fontawesome.com/)- Used for the Social Media icons
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open)- Used to inspect the codes used
 * [Javascript](https://www.javascript.com/)- Used to support style
 * [Autoprefixer](https://autoprefixer.github.io/)- Used to parse the CSS and add vendor prefixes
 
@@ -168,7 +173,7 @@ I chose to use "Sacramento" for my logo as I wanted my name to have a stylish cu
 
 ### Manual Testing
 
-This website has been tested through a server, via Code Institute (python3 -m http.server, port 8000)
+This website has been tested through a GitPod server, via Code Institute (python3 -m http.server, port 8000)
 
 I have tried my website on Google Chrome and Safari. Both appear to work as expected. 
 
@@ -181,59 +186,31 @@ Please see [here](https://github.com/Aleeshakara/milestone-1/blob/master/assets/
 
 GitHub Pages was used to deploy the website.
 
-###Instrutions
-1.
-2.
-3.
+#### Instructions
 
-GitHub pages has been used for deployment.
-GitHub is a hosting service for HTML and CSS to publish a website.
+1.  Go to "GitHub.com"
+2.  Complete "Repository Name" and "Description" (optional) 
+3.  Click "Public"
+4.  Click "Initialize this repository with a README"
+5.  Click "Create Repository" (green) button (this goes directly into the repository)
+6.  Click "Gitpod" (green) button. 
+7.  Add files to the workspace  using: git add "new commit message"
+8.  Amend files (if necessary) using: git commit -m (file)                                                    
+9.  Use: git push to push files                                                     
+10. In "GitHub" go to "Settings"                                                       
+11. Scroll down to the "GitHub Pages" section
+12. Click "Master Branch"
+13. Your site is published at https://username.github.io/
+ 
+https://aleeshakara.github.io/
 
-1)	Navigate to GitHub remote Repository:……
-2)	Click on settings
-3)	Scroll to GitHub pagessection
-4)	Locate sources dropdown menu and select branch
-5)	A link will become available:…..
+#### Clone Respository
 
+1.	GitHub remote repository 
+2.	Click "Code" (green)  button
+3.  Click "Clone URL" (Copy address- https://github.com/username/repo_name.git) or "Download ZIP" (saves files to device)
 
-Repository
-
-The code was written fully in GitHub, using a new GitPod respositiory
-GitHub page
-Settings (top right)
-Scroll to GitHub pages section
-Masetr branch
-Published at 
-https://github.com......
-
-Clone Respository
-
-1)	GitHub remote repo: 
-2)	Click clone or download
-3)	Copy address
-4)	Open GitBash
-5)	Update working directory to the location you want
-6)	Type “Git Clone” and copy and paste url
-7)	Enter to create clone 
-
-Updates
-
-Through GitHub, HTML, CSS was updated and amended:
-Git add…
-Git commit -m
-Git push 
-
-Published 
-
-Within the repository, under the settings button.
-GitHub pages was used to create a live website:
-
-Access settings on repository page;
-Scroll to GitHub pages…..
-Click master branch…. 
-Publish page and test live address
-
-To submit bug reports and feature suggestions or track changes….
+https://github.com/Aleeshakara/aleeshakara.github.io.git
 
 
 ## Credits
