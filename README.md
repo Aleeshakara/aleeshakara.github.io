@@ -9,7 +9,7 @@ This project is my website to showcase my skills as a Web Developer, with an onl
 
 I decided to start this portfolio for myself, which can be updated and improved as my knowledge and experience grows.
 
-Please click [here]() for my live website.
+Please click [here](https://aleeshakara.github.io/) for my live website.
 
 ![Image](https://github.com/Aleeshakara/aleeshakara.github.io/blob/master/assets/responsive_multi.png "responsive_multi")
 
