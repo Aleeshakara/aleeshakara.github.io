@@ -2,7 +2,7 @@
 
 ## User Centric Frontend Development Milestone Project 
 
-![Image](https://github.com/Aleeshakara/milestone-1/blob/master/assets/images/favicon.png "favicon") 
+![Image](https://github.com/Aleeshakara/aleeshakara.github.io/blob/master/assets/images/favicon.png "favicon") 
 
 
 This project is my website to showcase my skills as a Web Developer, with an online portfolio to demonstrate knowledge and experience. This is initially focused on Front End development.
@@ -11,6 +11,7 @@ I decided to start this portfolio for myself, which can be updated and improved 
 
 Please click [here]() for my live website.
 
+![Image](https://github.com/Aleeshakara/aleeshakara.github.io/blob/master/assets/responsive_multi.png "responsive_multi")
 
 ## Contents
 
